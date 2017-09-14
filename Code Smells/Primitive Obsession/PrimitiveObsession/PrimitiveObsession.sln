@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimitiveObsession", "PrimitiveObsession\PrimitiveObsession.csproj", "{E5753E02-2A36-496B-AF6C-CA1D83A5D0BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimitiveObsessionUnitTests", "PrimitiveObsessionUnitTests\PrimitiveObsessionUnitTests.csproj", "{F1890048-6845-4C42-A51E-8184213FA23B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5753E02-2A36-496B-AF6C-CA1D83A5D0BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5753E02-2A36-496B-AF6C-CA1D83A5D0BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5753E02-2A36-496B-AF6C-CA1D83A5D0BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5753E02-2A36-496B-AF6C-CA1D83A5D0BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1890048-6845-4C42-A51E-8184213FA23B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1890048-6845-4C42-A51E-8184213FA23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1890048-6845-4C42-A51E-8184213FA23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1890048-6845-4C42-A51E-8184213FA23B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB12907F-300F-4D24-B58D-A1C1FE559461}
+	EndGlobalSection
+EndGlobal
