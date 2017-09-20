@@ -3,3 +3,5 @@ obj/
 .vs/
 .vscode/
 *.ncrunchsolution*
+*_NCrunch_*
+*.csproj.user
